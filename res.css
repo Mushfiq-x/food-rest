@@ -30,6 +30,10 @@
     letter-spacing: 0%;
     text-align: center;
     border: none;
+    cursor: pointer;
+}
+.btn:hover {
+    background: rgb(60, 139, 3);
 }
 #hero .child {
     padding: 0 25%;
